@@ -1,5 +1,5 @@
 # Weekop-Site
-Website similar to wykop.pl
+Website similar to wykop.pl\n
 It contains:
 *registration
 *login
